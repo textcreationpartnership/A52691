@@ -1,0 +1,160 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Glory to God Almighty who ruleth in the heavens, and in whose hands are all the kingdoms of the earth</title>
+            <author>Naylor, James, 1617?-1660.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1659</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A52691</idno>
+            <idno type="STC">Wing N282</idno>
+            <idno type="STC">ESTC R8580</idno>
+            <idno type="EEBO-CITATION">12252036</idno>
+            <idno type="OCLC">ocm 12252036</idno>
+            <idno type="VID">57164</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A52691)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 57164)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 872:27)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Glory to God Almighty who ruleth in the heavens, and in whose hands are all the kingdoms of the earth</title>
+                  <author>Naylor, James, 1617?-1660.</author>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Thomas Simmons,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>[1659?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Huntington Library.</note>
+                  <note>Attributed to James Nayler. cf. NUC pre-1956.</note>
+                  <note>Title taken from opening two lines of text.</note>
+                  <note>Signed: James Naylor.</note>
+                  <note>Imprint from colophon.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Commonwealth and Protectorate, 1649-1660.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-03</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2011-03</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:57164:1" rendition="simple:additions"/>
+            <pb n="1" facs="tcp:57164:1" rendition="simple:additions"/>
+            <p>GLory to God Almighty who Ruleth in the Heavens, and in whoſe hands are all the Kingdoms of the earth, who raiſeth up and caſteth down at his Will, who hath wayes to con<g ref="char:EOLhyphen"/>found the exaltation of man, and to chaſtiſe his Children, and to make man to know himſelf to be as graſs before him, whoſe Judgements are above the higheſt of men, and his pitty reacheth the deepeſt miſery, and this Arm of his Mercy is underneath to lift up the Priſoner out of the Pit, and to ſave ſuch as truſt in him from the great diſtruction, which vain man through his folly brings on himſelf; who hath delivered my Soul out of darkneſs, and made way for my Free<g ref="char:EOLhyphen"/>dom out of the Priſon-houſe, and Ranſomed me from the great Cap<g ref="char:EOLhyphen"/>tivity, who devides the Seas before him, and removes the Mountains out of his Way, in the Day when he takes upon him to deliver the Op<g ref="char:EOLhyphen"/>preſſed out of the hand of him that is too mighty for him in the earth, let his Name be exalted forever, and let all fleſh fear before him, whoſe breath is life to his own, but a conſuming fire to the Adver<g ref="char:EOLhyphen"/>ſary.</p>
+            <p>And to the Lord Jeſus Chriſt be Everlaſting Dominion upon earth, and his Kingdom above all the powers of darkneſs, even that Chriſt of whom the Scriptures declares, which was and is, and is to come, the light of the world to all Generations, of whoſe coming I teſtifie with the reſt of the Children of light begotten of the Immortal Seed, whoſe Truth and Vertue now ſhines in the world unto the Righteouſneſs of Eternal life, and the Saviour of all that believe therein, who hath been the Rock of my Salvation, and his Spirit hath given Quietneſs and Patience to my Soul in deep affliction, even for his Names ſake, praiſes for ever.</p>
+            <p>But Condemned for ever be all thoſe falſe worſhips with which any have Idolized my Perſon in the night of my temptation, when the power of darkneſs was above, all their caſting off their Clothes in the <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ay, their bowings and ſingings, and all the reſt of thoſe wilde actions which did any way tend to diſhonour the Lord or draw the minds of any from the meaſure of Chriſt Jeſus in themſelves, to look at fleſh which is graſs, or to aſcribe that to the viſible wch belongs to Chriſt Jeſus, <gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap>l that I condemn by which the pure Name of the Lord hath any way <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>een Blaſphemed through me in that time of temptation, or the ſpi<g ref="char:EOLhyphen"/>rits of any People grieved that truly loves the Lord Jeſus throughout
+<pb n="2" facs="tcp:57164:2" rendition="simple:additions"/>the whole world of what ſort ſoever; this offence I confeſs which hath been ſorrow of heart that the enemy of mans Peace in Chriſt ſhould get this advantage in the night of my Tryal, to ſtir up wrath and of<g ref="char:EOLhyphen"/>fences in the Creation of God, a thing the ſimplicity of my heart did not intend, the Lord knows, who in his endleſs love hath given <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Power over it to Condemn it; And alſo that Letter ſent me to <hi>Exeter</hi> by <hi>John Stanger</hi> when I was in Priſon, with theſe words, <hi>Thy name ſh<gap reason="illegible" resp="#OXF" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e no more</hi> James Naylor, <hi>but Jeſus;</hi> this I Judge to be written from the Imaginations, and a fear ſtruck me when I firſt ſaw it, and ſo I put it in my Pocket (cloſe) not intending any ſhould ſee it, which they finding on me ſpread it abroad, which the ſimplicity of my heart ne<g ref="char:EOLhyphen"/>ver owned; ſo this I deny alſo that the Name of Chriſt Jeſus is recei<g ref="char:EOLhyphen"/>ved in ſtead of <hi>James Naylor</hi> or after the fleſh, for the Name is to the Seed to all Generations, and he that hath the Son hath the Name which is Life and Power, the Salvation and the Unction, into which Name all the Children of light are Baptized; ſo the Name of Chriſt I confeſs before men, but not according to men, which Name to me hath been a ſtrong Tower, in the night and in the day.</p>
+            <p>And this is the Name of Jeſus Chriſt which I confeſs, The Son, and the Lamb, in the Seed, where he ſpeaks in Male or Female, but who hath not this in himſelf hath not life, neither can have by Idolizing my Perſon, or the Perſon of any fleſh, but in whom the Heir is born and hath ſpoken, or doth ſpeak, there he muſt not be denied the mouth to ſpeak by, who is head over all, and in all his own God bleſ<g ref="char:EOLhyphen"/>ſed for ever.</p>
+            <p>And all thoſe ranting wilde ſpirits which then gathered about me in that time of darkneſs, and all their wilde actions and wicked words againſt the honour of God and his pure Spirit and People, I deny the ſpirit, the power and the works thereof, and as far as I gave advantage through want of Judgement for that evil ſpirit in any to ariſe I take ſhame to my ſelf, juſtly, having formerly had Power over that ſpirit in Judgement and diſcerning where ever it was, which darkneſs came over me through want of watchfulneſs and obedience to the pure Eye of God, and diligent minding the reproof of life, which condemns the Adulterous ſpirit; ſo the Adverſary got advantage, who ceaſes not to ſeek to devour, and being taken Captive from the true light, wal<g ref="char:EOLhyphen"/>ked in the night where none can work, as a wandring bird ſit for the prey, and if the Lord of all my mercies had not reſcued me, I had periſhed, for I was as one appointed to death and diſtruction, and there was none could deliver me; And this I confeſs, that God may be juſtified in his Judgement, and magnified in his mercies without end,
+<pb n="3" facs="tcp:57164:2" rendition="simple:additions"/>who did not forſake his Captive in the night, even when his Spirit was daily provoked and grieved, but hath brought me forth to give Glory to his Name for ever; And it is in my heart to confeſs to God, and be<g ref="char:EOLhyphen"/>fore men, my folly and offence in that day, yet was there many things formed againſt me at that day to take away my life, and caſt upon the Truth of which I am not guilty at all; as that accuſation as if I had committed Adultery with ſome of thoſe Women who came with us from <hi>Exeter</hi> Priſon; and alſo thoſe who were with me at <hi>Briſtow</hi> the night before I ſuffered there; Of both which accuſations I am clear before God, who kept me at that day both in thought and deed, as to all Women, as a little Child, God is my Record, and this I mention in Particular (hearing of ſome who ſtill ceaſe not to reproach therewith Gods Truth and People) that the mouth of enmity may be ſhut from evil-ſpeaking, though this touch not my Con<g ref="char:EOLhyphen"/>ſcience.</p>
+            <p>Alſo that report as though I had raiſed <hi>Dorcas Erbury</hi> from death, carnally, this I deny alſo, and condemn that Teſtimony to be out of the Truth, though that Power that quickens the dead, I deny not, which is the word of Eternal Life.</p>
+            <p>And this I give forth that it may go as far as the offence againſt the Spirit of Truth hath gone abroad, that all burthens may be taken off with the Truth, and the Truth cleared thereby, and the true light, and all that walk therein, and the deeds of darkneſs be condemned, and that all that are in darkneſs may not act in the night, but ſtay upon God who walkes in the light, who with the workers of inquity hath not fel<g ref="char:EOLhyphen"/>lowſhip, which had I done when firſt darkneſs came upon me, and not been led by others, I had not run againſt that Rock to be broken which ſo long had born me, and of whom I had ſo largely drunken, and of which I now drink in meaſure, to whom be the Glory of all, and to him muſt every tongue confeſſe, as Judge and Saviour, God over all, bleſſed for ever.</p>
+            <p>And this further is given me to ſay to every particular perſon to whom this writing ſhall come, what ever is thy condition, wait in the light which lets thee ſee it, there is thy Counſel and thy ſtrength to be received, to ſtay thee and to recover thee, Art thou tempted to ſin? abide in that which lets the ſee it, that there thou may come to feed on the right body, and not on the temptation, for if thou mind the temptation it will overcome thee, but in the light is Salvation; or having ſinned art thou tempted to diſpaire or to deſtroy thy ſelf? mind not the temptation, for its death that ſin hath brought forth, feed not on it nor mind it, leaſt thou eat condemnation, for thats the wrong body.</p>
+            <pb n="4" facs="tcp:57164:3" rendition="simple:additions"/>
+            <p>The body of Chriſt is felt in the light, in which is life from death Grace and Truth to feed on, which will overcome for thee being fol<g ref="char:EOLhyphen"/>lowed, but if thou follow the tempration, fear and condemnation w<gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap> ſwallow thee up; if there appear to thee voices, viſions, and Revelati<g ref="char:EOLhyphen"/>ons, feed not thereon, but abide in the light and feel the body of Chriſt, and there wilt thou receive faith and power to Judge of every appearance and ſpirits, the good to hold faſt and obey, and the falſe to reſiſt; art thou in darkneſs? mind it not, for if thou do, it will fill thee more, but ſtand ſtill and act not, and wait in patience till light ariſe out of darkneſs to lead thee; Art thou wounded in Conſcience? feed not there, but abide in the light, which leads to the Grace and Truth which Teaches to deny and put off the weight, &amp; removes the cauſe, and brings ſaving health to light; yea this I ſay to thee in the Name of Jeſus Chriſt, that though thou have made thy Grave as deep as the ne<g ref="char:EOLhyphen"/>thermoſt Hell, or were thy afflictions as great as <hi>Jobs,</hi> and thy dark<g ref="char:EOLhyphen"/>neſs as the depth of the Sea, yet if thou wilt not run to vain helps as I have done, but ſtay upon the Lord till he give thee light by his Word, (who commands light to ſhine out of darkneſs) from thence will he bring thee forth, and his eye ſhall guide thee, and thou ſhalt praiſe his Name, as I do this day, glory for evermore; And this Word is nigh thee which muſt give thee light, though darkneſs comprehends it not.</p>
+            <p>And hadſt thou gifts, Revelations, knowledge, wiſdom or what ever thou maiſt read on in the Scriptures of Truth, and do not abide in the light, and feed on the body of Chriſt whence the gifts ſprings, but feed on the gift, thou mayeſt be up for a while in thy own ſight, but certainly thou wilt wither and die to God, and darkneſs will come upon thee, and thy food will turn to thy condemnation in the ſight of God.</p>
+            <p>And this I have learned in the deeps, and in ſecret when I was alone, and now declare openly in the day of my mercy, Glory to the Higheſt for evermore who hath thus far ſet me free to praiſe his Righteouſneſs and his mercy, and to the Eternal inviſible pure God, over all, be fear, obedience and glory evermore, Amen.</p>
+            <closer>
+               <signed>JAMES NAYLOR.</signed>
+            </closer>
+            <trailer>THE END.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>London, Printed for <hi>Thomas Simmons.</hi>
+            </p>
+            <pb facs="tcp:57164:3"/>
+         </div>
+      </back>
+   </text>
+</TEI>
